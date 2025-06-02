@@ -1,0 +1,348 @@
+County,State,Populaton,Income,Employment Rate,Growth Rate,Land Records,GIS Maps,Zoning,Water,Sewer,Gas,Electricity,Online?,Frequency,Auction Link(s),Next Auction,New Upcoming Auctions
+Loudoun County,Virginia,"420,959","$174,148",70.40%,0.81%,https://loudoncounty-tn.gov/register-of-deeds/,"https://logis.loudoun.gov/weblogis/
+","https://logis.loudoun.gov/weblogis/
+","https://www.loudounwater.org/","https://www.loudounwater.org/
+","""http://www.columbiagasva.com/
+https://www.washingtongas.com/""
+","""https://www.dominionenergy.com/
+https://www.novec.com/service.cfm""
+","Yes
+","Daily","https://www.bid4assets.com/search/#t=s|s=730907|sc=bidclosetime|so=ASC
+",Varies,"{'County': 'Loudoun County', 'State': 'Virginia', 'Auction Link(s)': 'https://www.bid4assets.com/search/#t=s|s=730907|sc=bidclosetime|so=ASC', 'Next Auction': '06/11/2025'}
+{'County': 'Loudoun County', 'State': 'Virginia', 'Auction Link(s)': 'https://www.bid4assets.com/search/#t=s|s=730907|sc=bidclosetime|so=ASC', 'Next Auction': '06/09/2025'}
+{'County': 'Loudoun County', 'State': 'Virginia', 'Auction Link(s)': 'https://www.bid4assets.com/search/#t=s|s=730907|sc=bidclosetime|so=ASC', 'Next Auction': '06/04/2025'}
+{'County': 'Loudoun County', 'State': 'Virginia', 'Auction Link(s)': 'https://www.bid4assets.com/search/#t=s|s=730907|sc=bidclosetime|so=ASC', 'Next Auction': '06/10/2025'}
+{'County': 'Loudoun County', 'State': 'Virginia', 'Auction Link(s)': 'https://www.bid4assets.com/search/#t=s|s=730907|sc=bidclosetime|so=ASC', 'Next Auction': '06/05/2025'}
+{'County': 'Loudoun County', 'State': 'Virginia', 'Auction Link(s)': 'https://www.bid4assets.com/search/#t=s|s=730907|sc=bidclosetime|so=ASC', 'Next Auction': '11h 54m'}"
+Fairfax County,Virginia,"1,150,309","$141,553",67.10%,0.22%,"https://fairfax-county-public-real-estate-records.govbackgroundchecks.com/
+","https://icare.fairfaxcounty.gov/ffxcare/maps/mapadv.aspx
+","https://www.fairfaxcounty.gov/planning-development/zoning-ordinance
+","https://www.fairfaxwater.org/
+","https://www.fairfaxcounty.gov/publicworks/wastewater
+","https://www.wgl.com/
+","Dominion Virginia Power
+",Yes,Varies,"http://www.forsaleatauction.biz/auctions
+",Varies,"{'County': 'Fairfax County', 'State': 'Virginia', 'Auction Link(s)': 'http://www.forsaleatauction.biz/auctions', 'Next Auction': '7-15-25'}
+{'County': 'Fairfax County', 'State': 'Virginia', 'Auction Link(s)': 'http://www.forsaleatauction.biz/auctions', 'Next Auction': '7-18-25'}
+{'County': 'Fairfax County', 'State': 'Virginia', 'Auction Link(s)': 'http://www.forsaleatauction.biz/auctions', 'Next Auction': '7-01-25'}
+{'County': 'Fairfax County', 'State': 'Virginia', 'Auction Link(s)': 'http://www.forsaleatauction.biz/auctions', 'Next Auction': '8-13-25'}"
+Arlington County,Virginia,"238,643","$140,219",73.90%,0.21%,https://apps.smcacre.org/recorderworks/,https://gis.smcgov.org/Html5Viewer/?viewer=raster,https://www.smcgov.org/media/153285/download?inline=,https://www.calwater.com/,https://svcw.org/,https://www.pge.com/,https://www.pge.com/,Yes,Varies,"https://m.publicsurplus.com/sms/sanmateo,ca/list/current?orgid=15005",Varies,
+Forsyth County,Georgia,"251,283","$134,821",67.10%,2.00%,https://forsythdeeds.com/forsythNameSearch.php?Accept=Accept,https://www.forsyth.cc/Tax/mapping.aspx,https://geo-forsythcoga.opendata.arcgis.com/datasets/zoning-districts/explore,https://www.forsythco.com/Departments-Offices/Water-Sewer,https://www.forsythco.com/Departments-Offices/Water-Sewer,https://www.atlantagaslight.com/,https://www.duke-energy.com/,Yes,Varies,https://www.forsyth.cc/Tax/foreclosure_prop.aspx,Varies ,
+Stafford County,Virginia,"156,927","$134,619",64.90%,2.60%,https://va-stafford-assessor.publicaccessnow.com/propertysearch.aspx,coclerk@staffordcounty.org,https://www.staffordcounty.org/planning--zoning.html,https://staffordcountyva.gov/government/elected_and_appointed_officials/treasurer/taxes_search_view___pay/water___sewer.php,https://staffordcountyva.gov/government/elected_and_appointed_officials/treasurer/taxes_search_view___pay/water___sewer.php,https://www.virginianaturalgas.com/,https://www.dominionenergy.com/,Yes,Varies,https://bid.forsaleatauction.biz/ui/auctions/91871,Varies,"{'County': 'Stafford County', 'State': 'Virginia', 'Auction Link(s)': 'https://bid.forsaleatauction.biz/ui/auctions/91871', 'Next Auction': '23h 43m'}
+{'County': 'Stafford County', 'State': 'Virginia', 'Auction Link(s)': 'https://bid.forsaleatauction.biz/ui/auctions/91871', 'Next Auction': '48-5-10'}"
+Williamson County,Tennessee,"247,726","$133,990",65.80%,1.39%,https://archives.williamsoncounty-tn.gov/indexes/search,https://williamsoncounty-tn.gov/371/Maps,https://www.williamsoncounty-tn.gov/DocumentCenter/View/4139/2021-Official-Zoning-Map_36x48?bidId=,https://brazos.org/,https://wtcmud1.org/,https://www.texasgasservice.com/,https://www.wilcotx.gov/DocumentCenter/View/9095/Wilco-Utilities-Contact-Info-,Yes,Varies,https://iltaxsale.com/new/index.php/county/Williamson/WMS,11/07/2025,
+Prince William County,Virginia,"482,204","$131,047",67.00%,0.53%,https://www.pwcva.gov/department/circuit-court/land-records-online,https://www.pwcva.gov/department/gis/county-mapper,https://www.williamsoncounty-tn.gov/1376/Zoning,https://princewilliamwater.org/,https://princewilliamwater.org/,https://www.washingtongas.com/services/contractors/service-territory,https://www.novec.com/,Yes,Varies,https://taxva.com/real-estate-tax-sales/,Varies,"{'County': 'Prince William County', 'State': 'Virginia', 'Auction Link(s)': 'https://taxva.com/real-estate-tax-sales/', 'Next Auction': '6/03/2025'}
+{'County': 'Prince William County', 'State': 'Virginia', 'Auction Link(s)': 'https://taxva.com/real-estate-tax-sales/', 'Next Auction': '6/12/2025'}
+{'County': 'Prince William County', 'State': 'Virginia', 'Auction Link(s)': 'https://taxva.com/real-estate-tax-sales/', 'Next Auction': '6/09/2025'}"
+Carver County,Minnesota,"106,922","$129,581",72.80%,1%,https://gis.co.carver.mn.us/platsearch/,"recorder@carvercountymn.gov
+(952) 361-1930",https://www.carvercountymn.gov/departments/public-services/land-management/zoning,https://www.cityofcarver.com/,https://www.cityofcarver.com/,https://www.cityofcarver.com/,https://corporate.my.xcelenergy.com/,No,recorder@carvercountymn.gov,recorder@carvercountymn.gov,recorder@carvercountymn.gov,
+Delaware County,Ohio,"214,124","$126,513",67.60%,2.16%,https://delaware.pa.publicsearch.us/,https://maps-delcogis.opendata.arcgis.com/,https://delawarecountyzoning.iowa.gov/,https://delcowater.org/,https://www.delcora.org/,https://sngco.com/,https://dce.coop/,Yes,Last Updated 07/17/2023,https://www.delcony.us/departments/delq/county_owned.htm,Last Updated 07/17/2023,
+Norfolk County,Massachusetts,"725,981","$123,903",66.60%,0.27%,https://www.norfolkresearch.org/ALIS/WW400R.HTM?WSIQTP=SY00,https://www.arcgis.com/apps/webappviewer/index.html?id=c6683057b83744dfb36afb773ba09135,https://www.norfolkcounty.ca/business-building-and-development/planning-and-development/zoning/,https://www.norfolkcounty.ca/home-property-and-neighbourhood/water-and-wastewater/,https://www.norfolkcounty.ca/home-property-and-neighbourhood/water-and-wastewater/,UTBackFlow@norfolk.gov,UTBackFlow@norfolk.gov,Yes,Varies,https://www.vaauctionco.com/auctions/detail/bw115928,06/6/24 to 06/20/24,
+Middlesex County,Massachusetts,"1,632,002","$123,705",67.70%,0.44%,https://www.middlesexcountynj.gov/government/departments/department-of-community-services/office-of-county-clerk/recording-services/land-records,https://www.middlesex.ca/departments/mapping,https://www.co.middlesex.va.us/185/Planning-Zoning,https://www.middlesexwater.com/,https://www.middlesexwater.com/,https://www.mcua.com/,https://www.mcua.com/,Yes,Varies,https://bid.forsaleatauction.biz/ui/auctions/94235,Varies,
+Chester County,Pennsylvania,"534,413","$120,903",66.30%,0.57%,https://chestersc.avenuinsights.com/Home/index.html,https://chester-county-s-gis-hub-chesco.hub.arcgis.com/,610-344-6000,https://chesterwater.com/,https://www.chesco.org/365/Sewage-Water,https://chestergas.com/,https://www.duke-energy.com/,Yes,Third Thursday of the month,https://www.bid4assets.com/chestercopasheriffsales,05/15/2025,"{'County': 'Chester County', 'State': 'Pennsylvania', 'Auction Link(s)': 'https://www.bid4assets.com/chestercopasheriffsales', 'Next Auction': 'September 18, 2025'}
+{'County': 'Chester County', 'State': 'Pennsylvania', 'Auction Link(s)': 'https://www.bid4assets.com/chestercopasheriffsales', 'Next Auction': 'July 17, 2025'}
+{'County': 'Chester County', 'State': 'Pennsylvania', 'Auction Link(s)': 'https://www.bid4assets.com/chestercopasheriffsales', 'Next Auction': 'June 18, 2025'}
+{'County': 'Chester County', 'State': 'Pennsylvania', 'Auction Link(s)': 'https://www.bid4assets.com/chestercopasheriffsales', 'Next Auction': 'August 21, 2025'}
+{'County': 'Chester County', 'State': 'Pennsylvania', 'Auction Link(s)': 'https://www.bid4assets.com/chestercopasheriffsales', 'Next Auction': '08/21/2025'}
+{'County': 'Chester County', 'State': 'Pennsylvania', 'Auction Link(s)': 'https://www.bid4assets.com/chestercopasheriffsales', 'Next Auction': '25-06-18'}"
+King County,Washington,"2,269,675","$120,824",67.80%,0.27%,https://kingscountyca-web.tylerhost.net/web/search/DOCSEARCH481S6,https://kingcounty.maps.arcgis.com/apps/mapviewer/index.html,https://kingcounty.gov/en/dept/kcit/data-information-services/gis-center/property-research/zoning,https://www.kcwd90.com/,https://kingcounty.gov/en/dept/dnrp/waste-services/wastewater-treatment/sewer-system-services,https://kingcounty.gov/en/dept/dph/health-safety/environmental-health/plumbing-gas-piping,https://www.seattle.gov/light/,Yes,September of each year,https://realauction.com/,"September 10, 2025",
+New Kent County,Virginia,"22,945","$120,125",62.10%,4.33%,https://parcelviewer.geodecisions.com/NewKent/,https://parcelviewer.geodecisions.com/NewKent/,https://www.newkent-va.us/209/Planning,https://kentcountywater.org/,https://www.newkent-va.us/488/Protecting-Our-Sewer-System,https://www.virginianaturalgas.com/,https://www.dominionenergy.com/,Yes,Varies,https://www.isgettauction.com/,"Apr 1 @ 5:28pm EDT (Start)
+  May 8 @ 11:00am EDT (End)",
+Collin County,Texas,"1,064,465","$119,155",69.00%,2.95%,https://collin.tx.publicsearch.us/,https://www.arcgis.com/apps/webappviewer/index.html?id=28b784073c47453895a6f69a22bd76e1,(972) 548-4100,https://northcollinsud.com/,https://www.collincountytx.gov/Services/Engineering/Development-Services/on-site-sewage-facilities,https://www.coserv.com/,https://www.gcec.net/,No,First Tuesday of each month,(972) 548-4100,Varies,
+Hamilton County,Indiana,"347,467","$118,777",69.30%,1.64%,https://register.hamiltontn.gov/OnlineRecordSearch/Beta/Login.aspx?ReturnUrl=%2fonlinerecordsearch%2fBeta%2fSearch.aspx,https://www.hamiltoncounty.in.gov/442/GIS-and-Maps,https://www.hamiltoncounty.in.gov/620/Zoning-Jurisdictions,https://wwta.hamiltontn.gov/,https://fishersin.gov/services-resources/city-services/fishers-utilities/sewer-utility/,https://www.chattanoogagas.com/,https://www.hamiltonelectric.coop/,No,godwing@hamiltoncountyfl.com,godwing@hamiltoncountyfl.com,godwing@hamiltoncountyfl.com,
+Goochland County,Virginia,"24,727","$118,695",55.10%,3.67%,https://www.goochlandva.net/applications/republicinquiry/webform1.aspx,https://app.regrid.com/us/va/goochland,https://www.goochlandva.us/242/Planning-Zoning,https://www.goochlandva.us/235/Public-Utilities,https://www.goochlandva.us/238/Water-Supply-Plan,https://www.goochlandforbusiness.com/175/Utilities,https://www.dominionenergy.com/virginia,Yes,Varies,https://bid.forsaleatauction.biz/ui/auctions/98815,"Jun 27 @ 11:00am EDT (Start)
+Jun 27 @ 11:00am EDT (End)",
+Oconee County,Georgia,"41,799","$115,925",62.80%,1.25%,https://recordroom.cottsystems.com/oconeesc/guest/Search/records,https://oconeesc.com/departments/gis,https://oconeesc.com/planning-and-zoning-home/zoning-info,https://www.oconeecountyga.gov/1583/Water-Resources,https://ojrsa.org/,https://www.waltonemc.com/,https://www.blueridge.coop/,No,"Tax sales are held yearly from October to December, with the month changing yearly.","https://oconeesc.com/delinquent-tax/sale-list#:~:text=Tax%20sales%20are%20held%20yearly,Friday%2C%20October%2017%2C%202025.","October 27, 2025, at the Delinquent Tax Office","{'County': 'Oconee County', 'State': 'Georgia', 'Auction Link(s)': 'https://oconeesc.com/delinquent-tax/sale-list#:~:text=Tax%20sales%20are%20held%20yearly,Friday%2C%20October%2017%2C%202025.', 'Next Auction': 'October 8, 2025'}
+{'County': 'Oconee County', 'State': 'Georgia', 'Auction Link(s)': 'https://oconeesc.com/delinquent-tax/sale-list#:~:text=Tax%20sales%20are%20held%20yearly,Friday%2C%20October%2017%2C%202025.', 'Next Auction': 'October 24, 2025'}
+{'County': 'Oconee County', 'State': 'Georgia', 'Auction Link(s)': 'https://oconeesc.com/delinquent-tax/sale-list#:~:text=Tax%20sales%20are%20held%20yearly,Friday%2C%20October%2017%2C%202025.', 'Next Auction': 'October 23, 2025'}
+{'County': 'Oconee County', 'State': 'Georgia', 'Auction Link(s)': 'https://oconeesc.com/delinquent-tax/sale-list#:~:text=Tax%20sales%20are%20held%20yearly,Friday%2C%20October%2017%2C%202025.', 'Next Auction': 'October 27, 2025'}
+{'County': 'Oconee County', 'State': 'Georgia', 'Auction Link(s)': 'https://oconeesc.com/delinquent-tax/sale-list#:~:text=Tax%20sales%20are%20held%20yearly,Friday%2C%20October%2017%2C%202025.', 'Next Auction': 'October 17, 2025'}"
+Wasatch County,Utah,"34,788","$115,146",66.60%,1.45%,https://www.wasatchcounty.gov/online-document-lookup-service,https://app.regrid.com/us/ut/wasatch#,https://hideoututah.gov/hideout-town-code/title-11-zoning-regulations/,https://hideoututah.gov/,https://hideoututah.gov/,https://www.dominionenergy.com/,https://www.heberpower.com/,Yes,Varies ,https://www.bid4assets.com/auction/index/952603,"May 22, 2025 at 10:00 A.M",
+Spotsylvania County,Virginia,"140,032","$112,595",65.30%,1.88%,https://www.spotsylvania.va.us/1210/Records-Recordation-Services,https://www.arcgis.com/home/webmap/viewer.html?layers=7f13cb37952b426a9d74b52f85fe12ee&useExisting=1,https://www.spotsylvania.va.us/532/Zoning,https://www.spotsylvania.va.us/,https://www.spotsylvania.va.us/,https://www.virginianaturalgas.com/,https://www.dominionenergy.com/,Yes,Varies,https://www.bid4assets.com/auction/index/1099189,"May 15, 2025",
+Rockwall County,Texas,"107,819","$112,250",63.90%,5.72%,https://rockwalltx-web.tylerhost.net/web/user/disclaimer,https://www.rockwallcad.com/maps,https://www.arcgis.com/apps/webappviewer/index.html?id=367e1fc429a341fdb25cf6803bc87527,https://www.rockwall.com/utility.asp,https://www.rockwall.com/utility.asp,https://www.atmosenergy.com/,https://www.oncor.com/content/oncorwww/us/en/home.html,No,1st Tuesday monthly,https://www.bid4assets.com/auction/index/1166107,"June 3, 2025",
+Hanover County,Virginia,"109,979","$112,243",64.80%,1.12%,https://search.newhanoverdeeds.com/NameSearch.php?Accept=Accept,https://parcelmap.hanovercounty.gov/,https://www.hanovercounty.gov/197/Zoning-Process,https://www.hanovercounty.gov/413/Public-Utilities,https://www.hanovercounty.gov/413/Public-Utilities,https://www.virginianaturalgas.com/,https://myrec.coop/,Yes,Twice yearly,https://www.forsaleatauction.biz/,Varies,
+Davis County,Utah,"362,679","$111,778",68.20%,0.88%,https://www.daviencrod.org/,https://webportal.daviscountyutah.gov/App/PropertySearch/esri/map,https://www.daviscountyutah.gov/ced/planning,https://omu.org/,https://rwra.org/,https://www.atmosenergy.com/,https://omu.org/,No,Varies,Non,"May 15, 2025",
+Washington County,Minnesota,"267,568","$110,729",66.40%,12.00%,http://www.nebraskadeedsonline.us/search.aspx?county=29,https://www.arcgis.com/apps/webappviewer/index.html?id=c07b8931249b47be81278a79103bd698,https://washingtonco.illinois.gov/zoning/,https://washingtoncountywaterco.com/,https://www.washingtoncountyny.gov/261/Sewer-District,https://www.washingtongas.com/my-account/account-services-support/manage-your-account,https://www.aep.com/,Yes,Varies,https://washington.realtaxdeed.com/,Varies,
+Powhatan County,Virginia,"30,333","$110,667",61.10%,1.52%,https://powhatancountyva.nextrequest.com/,https://www.powhatanva.gov/289/Geographic-Information-System-GIS,https://www.powhatanva.gov/285/Planning-Zoning,https://www.ilo.org/industries-and-sectors/utilities-water-gas-electricity-sector,https://www.ilo.org/industries-and-sectors/utilities-water-gas-electricity-sector,"https://www.blossmangas.com/
+https://www.virginianaturalgas.com/",https://www.dominionenergy.com/,Yes,Varies,https://www.forsaleatauction.biz/auctions/detail/bw91859,Varies,
+King George County,Virginia,"26,723","$110,517",63.90%,2.22%,https://kinggeorgelandrecords.org/,https://www.arcgis.com/apps/webappviewer/index.html?id=b1b0388a1be34597a182baece5c165bd,https://www.kinggeorgecountyva.gov/506/Planning-Zoning,https://www.kinggeorgecountyva.gov/548/Utilities,https://www.kinggeorgecountyva.gov/548/Utilities,https://www.virginianaturalgas.com/,https://www.nnec.coop/,Yes,Varies,https://www.forsaleatauction.biz/auctions/detail/bw97208,Varies,
+Kendall County,Texas,"44,279","$110,498",57.70%,2.92%,https://kendall.tx.publicsearch.us/,https://www.kendallcountyil.gov/departments/geographic-information-systems,https://www.kendallcountyil.gov/departments/planning-building-zoning/zoning-ordinance,https://kcwcid1.com/,https://www.kendallcountytx.gov/394/Onsite-Sewage,https://www.nicorgas.com/,https://www.comed.com/,No,Annualy ,Non,Varies,
+Williamson County,Texas,"609,017","$110,415",68.90%,41.00%,https://archives.williamsoncounty-tn.gov/indexes/search,https://williamsoncounty-tn.gov/371/Maps,https://www.williamsoncounty-tn.gov/DocumentCenter/View/4139/2021-Official-Zoning-Map_36x48?bidId=,https://brazos.org/,https://wtcmud1.org/,https://www.texasgasservice.com/,https://www.wilcotx.gov/DocumentCenter/View/9095/Wilco-Utilities-Contact-Info-,Yes,Varies,https://iltaxsale.com/new/index.php/county/Williamson/WMS,11/07/2025,
+Fauquier County,Virginia,"72,972","$110,358",66.10%,1%,https://www.fauquiercounty.gov/government/departments-a-g/circuit-court-clerk/recorder-of-deeds,https://fauquier-county-gis-fauquiergis.hub.arcgis.com/,https://www.fauquiercounty.gov/government/departments-a-g/community-development/zoning,https://fcwsa.org/,https://fcwsa.org/,https://www.virginianaturalgas.com/,https://myrec.coop/,Yes,Varies,https://www.bid4assets.com/auction/index/1155034,Varies,
+James City County,Virginia,"78,254","$110,137",53.10%,1%,https://property.jamescitycountyva.gov/JamesCity/,https://opendata-jcc.opendata.arcgis.com/,https://www.jamescitycountyva.gov/447/Zoning,"https://www.jamescitycountyva.gov/611/James-City-Service-Authority-Old---Do-No
+https://www.nnva.gov/waterworks
+https://www.hrsd.com/","https://www.jamescitycountyva.gov/611/James-City-Service-Authority-Old---Do-No
+https://www.nnva.gov/waterworks
+https://www.hrsd.com/",https://www.virginianaturalgas.com/,https://www.dominionenergy.com/,Yes,Varies,https://bid.forsaleatauction.biz/ui/auctions/72267,Varies,
+Rockingham County,New Hampshire,"314,176","$109,770",64.90%,0.33%,https://www.ustaxdata.com/nc/rockingham/index.cfm,https://www.webgis.net/nc/Rockingham/,https://www.rockinghamcountyva.gov/920/Zoning,"https://danriverwaterinc.com/
+https://www.edennc.us/departments/municipal-services
+https://www.reidsvillenc.gov/finance
+https://www.townofmadison.org/index.asp?SEC=E899F900-E23C-4602-9166-47396DF88A95&Type=B_BASIC
+https://www.townofmayodan.com/
+https://www.stonevillenc.org/public-services/water-sewer/","https://danriverwaterinc.com/
+https://www.edennc.us/departments/municipal-services
+https://www.reidsvillenc.gov/finance
+https://www.townofmadison.org/index.asp?SEC=E899F900-E23C-4602-9166-47396DF88A95&Type=B_BASIC
+https://www.townofmayodan.com/
+https://www.stonevillenc.org/public-services/water-sewer/",https://www.piedmontng.com/home,https://www.energyunited.com/,Yes,Varies,https://www.myrockinghamcountynctax.com/foreclosure.cfm,Varies,
+Placer County,California,"404,739","$109,713",57.90%,1.28%,https://countyfusion4.kofiletech.us/countyweb/loginDisplay.action?countyname=Placer,https://www.placer.ca.gov/2842/GIS-and-Online-Maps,https://www.placer.ca.gov/3701/Zoning-Ordinance,https://www.pcwa.net/,https://www.auburnal.gov/,https://www.pge.com/en.html,https://www.pge.com/en.html,Yes,Varies,https://www.placer.ca.gov/1427/Tax-Land-Sale,"October 7, 2025.","{'County': 'Placer County', 'State': 'California', 'Auction Link(s)': 'https://www.placer.ca.gov/1427/Tax-Land-Sale', 'Next Auction': 'October 7, 2025'}"
+Plymouth County,Massachusetts,"530,819","$108,742",63.50%,0.38%,https://titleview.org/plymouthdeeds/,https://www.plymouth-ma.gov/340/GIS,https://www.co.plymouth.ia.us/Services/PDF/Plymouth%20Co%20Zone.pdf,https://www.pvwsd.org/,https://www.pvwsd.org/,https://www.nationalgridus.com/MA-Home/,https://plymouth-ma.gov/1117/Energy-Supply,Yes,Varies,https://www.bid4assets.com/auction/index/1051249,Varies,
+Chambers County,Texas,"46,571","$108,114",62.20%,4.55%,https://chambers.tx.publicsearch.us/,https://www.arcgis.com/apps/View/index.html?appid=4bdae3dada034978bb677dd1f76a02be,https://www.chamberscountytx.gov/DocumentCenter/View/4510/Chambers-County-Subdivision-and-Land-Develpment-Regulations-PDF,https://eawsfd.com/,https://eawsfd.com/,https://eawsfd.com/,https://www.entergy.com/,Yes,Varies,https://www.ingproperty.com/Chambers_Revenue/Delinquent.aspx,4/28/2025,"{'County': 'Chambers County', 'State': 'Texas', 'Auction Link(s)': 'https://www.ingproperty.com/Chambers_Revenue/Delinquent.aspx', 'Next Auction': '40-10-12'}"
+Ventura County,California,"843,843","$107,667",60.40%,0.60%,https://clerkrecorderselfservice.ventura.org/web/user/disclaimer,https://www.ventura.org/maps/,https://rma.venturacounty.gov/divisions/planning/county-ordinances/,https://www.vcpublicworks.org/wsd/,https://www.vcpublicworks.org/wsd/,https://www.socalgas.com/,https://www.sce.com/home,Yes,Varies,https://www.ventura.org/ttc/current-auction/,Varies,
+Warren County,Ohio,"242,337","$107,541",65.90%,0.95%,https://www.warrenrod.org/search.wgx,https://www.warrencountyva.gov/641/Geographic-Information-System-GIS-Mappin,https://www.warrencountync.com/824/Zoning-Ordinance,https://water.warrencountyohio.gov/,https://water.warrencountyohio.gov/,https://www.atmosenergy.com/,Duke Energy,Yes,Third Saturday in October,https://www.warrencountyny.gov/rp/auction,"October 18, 2025.",
+San Benito County,California,"64,209","$107,324",65.00%,2.01%,https://sanbenitocountyca-web.tylerhost.net/web/user/disclaimer,https://experience.arcgis.com/experience/eccc7174b6904afe857b91253314c5f0/,https://www.sanbenitocountyca.gov/departments/resource-management-agency/building-planning/ordinances,San Benito County Water District,"Utilities | San Benito, TX - Official Website",https://www.pge.com/en.html,"https://www.pge.com/en.html
+https://3cenergy.org/",Yes,Varies,https://www.sanbenitocountyca.gov/departments/treasurer-tax-collector-and-public-administrator/tax-collector/internet-auction-of-tax-defaulted-property/tax-auction-faq-s/schedule-of-upcoming-auctions,Not been scheduled at this time.,"{'County': 'San Benito County', 'State': 'California', 'Auction Link(s)': 'https://www.sanbenitocountyca.gov/departments/treasurer-tax-collector-and-public-administrator/tax-collector/internet-auction-of-tax-defaulted-property/tax-auction-faq-s/schedule-of-upcoming-auctions', 'Next Auction': '06-12-31'}"
+Bucks County,Pennsylvania,"646,538","$107,221",62.80%,3.70%,https://www.countyoffice.org/pa-bucks-county-property-records/,https://dataportal-bucksgis.opendata.arcgis.com/,https://www.buckscounty.gov/195/Ordinances-Resolutions,"https://www.bcwsa.net/
+http://www.lbcjma.com/
+http://www.newtownwater.com/","https://www.bcwsa.net/
+http://www.lbcjma.com/
+http://www.newtownwater.com/",https://peco.com/,https://peco.com/,Yes,Varies,https://www.fortnaauctioneers.com/auctions/detail/real-estate-auction-bucks-county-pa1,Varies,"{'County': 'Bucks County', 'State': 'Pennsylvania', 'Auction Link(s)': 'https://www.fortnaauctioneers.com/auctions/detail/real-estate-auction-bucks-county-pa1', 'Next Auction': 'June 13, 2025'}"
+Fayette County,Georgia,"119,194","$106,849",58.10%,1.10%,https://fayettedeeds.com/,https://www.arcgis.com/apps/View/index.html?appid=6bfba4cbc01840c18563c250918a7326,https://fayettecountyga.gov/planning_and_zoning/zoning-ordinances,https://fayettecountyga.gov/water/,https://fayettecountyga.gov/water/sewerage,https://fayetteal.org/gas-board/,https://utility.org/,Yes,Varies,https://www.fayettecountypay.com/tax-sales.html,"On the first Tuesday of October (October 7, 2025)","{'County': 'Fayette County', 'State': 'Georgia', 'Auction Link(s)': 'https://www.fayettecountypay.com/tax-sales.html', 'Next Auction': 'September 1st, 2025'}
+{'County': 'Fayette County', 'State': 'Georgia', 'Auction Link(s)': 'https://www.fayettecountypay.com/tax-sales.html', 'Next Auction': '48-4-20'}"
+Montgomery County,Pennsylvania,"856,553","$106,748",65.10%,0.42%,https://www.montgomeryrod.net/,https://montgomeryplanning.org/tools/gis-and-mapping/,https://montgomeryplanning.org/development/zoning/,https://www.wsscwater.com/,https://www.wsscwater.com/,https://www.washingtongas.com/services/contractors/service-territory,"http://www.bge.com/Pages/default.aspx
+https://www.firstenergycorp.com/content/fecorp/fehome.html
+http://www.pepco.com/",Yes,"First Tuesday of every month at 10 a.m. (unless holiday, then following business day).",http://www.realauction.com/,3rd June 2025,
+Denton County,Texas,"906,422","$106,695",69.00%,2.89%,https://denton.tx.publicsearch.us/,https://data-dentoncounty.hub.arcgis.com/,https://library.municode.com/tx/denton/codes/code_of_ordinances?nodeId=PTICH_ARTXPLZO,https://www.cityofdenton.com/383/Water-Wastewater,https://www.cityofdenton.com/383/Water-Wastewater,"https://www.atmosenergy.com/
+https://www.coserv.com/",https://www.cityofdenton.com/332/About-DME,Yes,First Tuesday of each month,https://www.dentoncounty.gov/867/Delinquent-Tax-Sales,3rd June 2025,
+Rockland County,New York,"338,329","$106,589",60.90%,0.13%,https://cotthosting.com/NYRocklandExternal/User/Login.aspx?ReturnUrl=%2fNYRocklandExternal,https://www.rocklandcountyny.gov/departments/planning/mapping-and-gis,http://www.townofrocklandny.com/wp-content/uploads/2015/10/Zoning-Ordinance.pdf,https://www.townofrocklandny.com/water-sewer-department/,https://www.townofrocklandny.com/water-sewer-department/,https://dps.ny.gov/location/orange-and-rockland-utilities-gas,https://dps.ny.gov/location/orange-and-rockland-utilities-electric,No,Not Stated,,The next tax delinquency auction has not been scheduled yet.,
+Snohomish County,Washington,"827,957","$106,269",64.30%,0.51%,https://www.snoco.org/RecordedDocuments/search/index?theme=.blue&section=searchCriteriaQuickSearch&quickSearchSelection=,https://snohomishcountywa.gov/1402/Maps-GIS,https://snohomishcountywa.gov/3411/Corresponding-Zoning-and-Land-Use-Design,https://www.snopud.com/account/services/water/,https://www.snohomishwa.gov/648/Sewer-System,https://www.pse.com/en,https://www.snopud.com/,Yes,Last part of NOVEMBER each year,https://www.bid4assets.com/storefront/SnohomishCoNov24,Varies,
+Scott County,Minnesota,"150,928","$106,181",72.10%,0.88%,https://www.scottcountyiowa.gov/recorder/land-records,https://www.scottcountymn.gov/308/Geographic-Information-Systems-GIS,https://www.scottcountymn.gov/330/Planning-Zoning,https://scottcountypsa.com/,https://scottcountypsa.com/,https://www.scottcountyiowa.gov/profile/utilities-communications,https://www.scottcountyiowa.gov/profile/utilities-communications,No,Not Stated,,,
+Fort Bend County,Texas,"822,779","$105,441",63.90%,2.95%,https://www.fortbendcountytx.gov/government/departments/county-clerk/online-record-search,https://gis.fbctx.gov/,https://www.fbcad.org/wp-content/uploads/2022/12/PlanningZoning.pdf,https://fbcwcid2.com/,https://mdswater.com/,"https://www.centerpointenergy.com/en-us/pages/selfid.aspx
+https://www.sienergy.com/",https://fortbendelectric.com/,Yes,First Tuesday of each month,https://www.bid4assets.com/auction/index/1095654,3rd June 2025,
+Wright County,Minnesota,"141,337","$104,269",73.20%,1.97%,https://beacon.schneidercorp.com/Application.aspx?AppID=187&LayerID=2505&PageTypeID=2&PageID=1306,https://wright-county-gis-wrightgis.hub.arcgis.com/,https://www.co.wright.mn.us/156/Planning-Zoning,"https://belmondiowa.com/
+https://www.clarioniowa.gov/
+https://eaglegroveiowa.org/
+https://cityofrowan.com/","https://belmondiowa.com/
+https://www.clarioniowa.gov/
+https://eaglegroveiowa.org/
+https://cityofrowan.com/","http://www.alliantenergy.com/
+https://www.blackhillsenergy.com/
+http://www.midamericanenergy.com/","http://www.alliantenergy.com/
+http://www.midamericanenergy.com/
+http://www.prairieenergy.coop/
+",No,,,,
+Cherokee County,Georgia,"266,620","$103,691",65.40%,1.85%,https://qpublic.schneidercorp.com/Application.aspx?App=CherokeeCountySC&Layer=Parcels&PageType=Search,https://maps.cherokeecounty-nc.gov/GISweb/GISviewer/,https://www.cherokeecountyga.gov/zoning/Zoning-Ordinance/,"http://www.cedarbluff-al.org/CEDARBLUFFUTILTYBD
+http://www.neawater.com/
+https://ccwsa.com/","http://www.cedarbluff-al.org/CEDARBLUFFUTILTYBD
+http://www.neawater.com/
+https://ccwsa.com/","http://www.tdstelecom.com/
+http://www.blossmangas.com/
+http://www.treadwellgas.com/",https://www.cherokee.coop/,Yes,Varies ,https://www.mvbataxsales.com/auction/cherokee-county-online-property-tax-sale-march-4-2025-132/date-times/,Varies,
+San Diego County,California,"3,298,634","$103,674",60.50%,1.20%,https://arcc-acclaim.sdcounty.ca.gov/,https://www.sangis.org/pages/interactive-map,https://www.sandiegocounty.gov/content/sdc/pds/zoning.html,https://www.sdcwa.org/,https://www.sandiegocounty.gov/content/sdc/dpw/wasteh2o/contact-us.html,https://www.sdge.com/home,https://www.sdge.com/home,Yes,Varies ,https://sdttc.mytaxsale.com/auctions,May 9th – 14th 2025,
+Boone County,Indiana,"70,812","$103,592",68.70%,2.32%,https://boonemo.icounty.com/login/login,https://gis.boonein.com/,https://boonecounty.iowa.gov/planning_development/zoning_county_ordinance/,https://boonewater.com/,https://bcrsd.com/,https://www.duke-energy.com/,https://booneelectric.coop/,Yes,Last Thursday of October ,,"October 30, 2025.",
+Kauai County,Hawaii,"73,298","$103,564",62.90%,0.09%,https://www.qpublic.net/hi/kauai/search.html,https://www.kauai.gov/Home-M/GIS,https://ecode360.com/42666961,http://kauaiwater.org/,https://www.kauai.gov/Government/Departments-Agencies/Public-Works/Wastewater,https://www.hawaiigas.com/,https://www.kiuc.coop/,No,,,,
+Albemarle County,Virginia,"112,395","$103,413",60.70%,0.71%,https://www.albemarlelandrecords.org/Opening.asp,https://www.albemarlenc.gov/departments/planning-and-development-services/city-county-maps-gis,https://www.albemarle.org/government/community-development/planning-codes/county-code,https://serviceauthority.org/,https://serviceauthority.org/,"https://www.charlottesville.org/departments-and-services/departments-h-z/utilities/charlottesville-gas
+https://www.columbiagasva.com/","https://www.dominionenergy.com/
+https://www.mycvec.com/
+http://www.myrec.coop/comm/index.cfm",No ,,,,
+Wake County,North Carolina,"1,129,410","$102,918",67.90%,48.00%,https://rodcrpi.wakegov.com/booksweb/genextsearch.aspx,https://www.wake.gov/departments-government/geographic-information-services-gis,https://www.wake.gov/departments-government/planning-development-inspections/zoning-subdivi,https://raleighnc.gov/water,https://raleighnc.gov/water-and-sewer,https://www.enbridgegas.com/north-carolina,https://wemc.com/,Yes,Varies,https://www.bid4assets.com/auction/index/1100432,"May 22, 2025",
+Johnson County,Kansas,"609,863","$102,702",69.80%,0.50%,https://erec.johnstonnc.com/recorder/eagleweb/customSearch.jsp?pageId=DeedRecords,https://www.johnstonnc.gov/gis2/content.cfm?PD=maps,https://www.jocogov.org/department/planning/zoning-regulations,https://www.jcsud.com/,https://www.jocogov.org/department/wastewater,https://piedmontng.com/,https://www.duke-energy.com/info/duke-energy,Yes,On the first Tuesday of every month,https://www.johnstonnc.gov/tax2/tcontent.cfm?pid=auctions,No sale scheduled at this time ,
+Livingston County,Michigan,"193,866","$102,508",62.30%,0.32%,https://livingstonlive.livgov.com/Deeds/,https://milivcounty.gov/gis/,https://milivcounty.gov/planning/zoning/,https://lcwsa.us/,https://lcwsa.us/,https://www.consumersenergy.com/business,"https://www.dteenergy.com/
+https://www.consumersenergy.com/business",Yes,Varies,https://www.bid4assets.com/auction/index/1154700,Varies,
+Union County,Ohio,"62,784","$101,968",70.20%,4%,https://www.unionconcrod.org/,https://www.unioncountync.gov/government/departments-f-p/gis-mapping,https://www.unioncountyin.org/ordinances.html,"https://www.cityofunion.net/
+https://brownscreekwaterco.myruralwater.com/
+https://mrrwc.com/
+https://www.rockycreekwater.com/
+https://santuckhebron.com/
+https://www.spartanburgwater.org/","https://www.cityofunion.net/
+https://townofjonesvillenc.com/
+https://gearupunionsc.com/municipalities/town-of-lockhart/","https://www.cityofunion.net/
+https://www.bhegts.com/our-businesses/CGT","https://www.cityofunion.net//
+https://laurenselectric.com/
+https://lockhartpower.com/
+",No,Every Wednesday at 2:00 pm,,Every Wednesday at 2:00 pm,
+Sherburne County,Minnesota,"97,183","$101,214",69.00%,1.60%,https://propertyrecords.co.sherburne.mn.us/WEB/login.aspx?ReturnUrl=%2fWEB%2f,https://www.co.sherburne.mn.us/523/Mapping,https://www.co.sherburne.mn.us/390/Zoning-Ordinance,https://www.co.sherburne.mn.us/355/Water-Wells,https://www.co.sherburne.mn.us/818/Septic-Compliance,https://www.centerpointenergy.com/en-us/pages/selfid.aspx,https://www.ermumn.com/,No,Tuesdays and Wednesdays at 10 a.m.,,Tuesdays and Wednesdays at 10 a.m.,
+New York County,New York,"1,694,251","$101,078",63.00%,0.18%,https://www.searchiqs.com/MEYOR/Login.aspx,https://www.yorkcountygov.com/234/GIS,https://www.nyc.gov/content/planning/pages/zoning/zoning-nyc,https://www.nyc.gov/site/dep/index.page,https://www.nyc.gov/site/dep/index.page,https://www.coned.com/en,https://www.coned.com/en,No,September.,,"September 18th, 2025",
+Utah County,Utah,"659,399","$100,895",69.30%,2.24%,https://www.utahcounty.gov/LandRecords/Index.asp,https://maps.utahcounty.gov/ParcelMap/ParcelMap.html,https://www.utahcounty.gov/apps/WebLink/Dept/COMDEV/LandUseUpdate_7-10-2019.pdf,,,,,Yes,Varies,https://www.bid4assets.com/storefront/UtahMay21,Varies,
+Fairfield County,Connecticut,"957,419","$100,810",63.50%,1.20%,https://www.searchiqs.com/ctfai/,https://fairfieldct.org/service/engineering_department/gis_mapping.php,https://www.fairfieldsc.com/departments/community-development/planning-and-zoning-division,https://www.fairfield.ca.gov/government/city-departments/finance/water-and-sewer-services,https://www.fairfieldct.org/service/sewer_department/index.php,"https://www.columbiagasohio.com/
+https://www.ci.lancaster.oh.us/184/Gas
+https://www.neogas.com/","https://aep.com/
+https://www.southcentralpower.com/",No,,,Not Stated,
+Sonoma County,California,"488,863","$100,707",62.40%,0.90%,https://crarecords.sonomacounty.ca.gov/Web/search/DOCSEARCH429S1,https://gis-sonomacounty.hub.arcgis.com/,https://permitsonoma.org/zoningcodes/countyzones(non-cc),https://www.sonomawater.org/SVCSD/,https://www.sonomawater.org/SVCSD/,https://www.pge.com/en.html,https://www.pge.com/en.html,Yes,Varies,https://www.bid4assets.com/sonoma,No specific dates for 2025,
+Clackamas County,Oregon,"421,401","$100,675",63.00%,0.01%,https://www.clackamas.us/rm/policy.html,https://www.clackamas.us/gis/data-portal,https://www.clackamas.us/planning/zdo,https://www.clackamas.us/wes,https://www.clackamas.us/wes,https://www.nwnatural.com/,https://portlandgeneral.com/,No,Varies,,06/25/2025,
+Solano County,California,"453,491","$100,027",57.80%,0.07%,https://www.homeinfomax.com/public/county-records/6095/california/solano?gad_source=1&gad_campaignid=21165760064&gbraid=0AAAAAD_kgZvDCLUZzR-C7iyE9p3nhqoDj&gclid=Cj0KCQjwoZbBBhDCARIsAOqMEZVQPNi7Fo2mA9cPmAvJimdl8AMb7fUTxiEvq2rotYkx1U-95Nz79AcaAlhkEALw_wcB,https://regis.solanocounty.com/apps/,https://www.solanocounty.com/depts/rm/planning/zoning_regulations.asp,https://www.fairfield.ca.gov/government/city-departments/public-works,https://www.ci.benicia.ca.us/index.asp?SEC=628D7755-8FE4-4458-B74C-5640332D14E9&Type=B_BASIC,https://www.pge.com/en.html,https://www.pge.com/en.html,Yes,Varies,https://www.bid4assets.com/info/sfid693/282528.pdf,"May 19, 2025",
+Town and County of Nantucket,Massachusetts,"7,029,917","$99,858",64.40%,2.30%,https://www.masslandrecords.com/Nantucket/,https://www.nantucket-ma.gov/151/GIS-Maps,https://ecode360.com/11471474,https://nantucket-ma.gov/1897/Water-Department,https://nantucket-ma.gov/1516/Sewer-Department,https://www.nationalgridus.com/MA-Home/default?regionkey=masselec&customertype=home,https://www.nationalgridus.com/MA-Home/default?regionkey=masselec&customertype=home,No,,,,
+Dakota County,Minnesota,"439,882","$99,830",68.60%,0.92%,https://nebraskadeedsonline.us/search.aspx?county=70,https://gis.co.dakota.mn.us/dcgis/,http://www.co.dakota.mn.us/LawJustice/Ordinances,"https://www.ighmn.gov/
+",https://www.ighmn.gov/,https://www.centerpointenergy.com/en-us/pages/selfid.aspx,"https://www.dakotaelectric.com/
+https://my.xcelenergy.com/s/
+https://www.mvec.net/",No,Varies,,2025 Auctions Completed,
+Chesterfield County,Virginia,"364,548","$99,658",65.20%,1.53%,https://chesterfieldsc.avenuinsights.com/Home/index.html,https://www.chesterfield.gov/341/Geographic-Information-Services,https://www.chesterfield.gov/998/Ordinances-Policies-and-Regulations,https://www.chesterfield.gov/236/Utilities,https://www.chesterfield.gov/236/Utilities,https://www.virginianaturalgas.com/,https://www.dominionenergy.com/,Yes,Varies,https://www.bid4assets.com/auction/index/1163844,Varies,
+Cobb County,Georgia,"766,149","$99,382",69.10%,0.63%,https://research.cobbsuperiorcourtclerk.com/Name,https://geo-cobbcountyga.hub.arcgis.com/,https://www.cobbcounty.org/community-development/zoning,https://www.cobbcounty.org/?option=com_content&view=category&id=661&Itemid=1301,https://www.cobbcounty.org/?option=com_content&view=category&id=661&Itemid=1301,https://www.atlantagaslight.com/,"https://www.cobbemc.com/
+https://www.georgiapower.com/",Yes,Varies,https://www.bid4assets.com/auction/index/1089642,"July 1, 2025",
+Comal County,Texas,"161,501","$99,193",59.90%,4.52%,https://www.texasfile.com/search/texas/comal-county/county-clerk-records/,https://www.arcgis.com/home/item.html?id=c42616f4f1184a83a8f1595d2ba75335,https://cceo.org/mainpage/dev-regulation,"https://www.nbutexas.com/
+https://www.gbra.org/",https://www.nbutexas.com/,https://www.texasgasservice.com/,"https://mypec.com/
+https://www.cpsenergy.com/",Yes,"March 4th, June 3rd, August 5th and November 4th.",https://www.mvbataxsales.com/,August 5th and November 4th.,
+Waukesha County,Wisconsin,"406,978","$98,630",64.80%,0.56%,https://www.waukeshacounty.gov/register-of-deeds/,https://www.waukeshacounty.gov/parks-and-land-use/land-information-system/interactive-map/,https://www.waukeshacounty.gov/parks-and-land-use/planning-and-zoning/,https://www.waukesha-water.com/,https://www.waukesha-wi.gov/,"https://www.we-energies.com/
+https://www.wecenergygroup.com/",https://www.we-energies.com/,Yes,2nd and 4th Wednesdays of each month,https://www.bid4assets.com/auction/index/1116457,11th and 25th June,
+Cumberland County,Maine,"303,069","$98,369",67.70%,0.45%,https://i2k.uslandrecords.com/ME/Cumberland/D/Default.aspx,https://www.arcgis.com/apps/webappviewer/index.html?id=a6ea68995c2349e9a177366288589be7,https://www.cumberlandcountync.gov/departments/planning-group/planning-and-inspections/planning/ordinances,https://www.hampdentownship.us/government/sewer_authority_-_sanitary/index.php,https://www.cumberlandcountypa.gov/,"https://www.ugi.com/
+https://www.columbiagaspa.com/","https://www.pplelectric.com/
+https://www.firstenergycorp.com/west_penn_power.html
+https://www.firstenergycorp.com/met_edison.html",Yes,Varies,https://www.bid4assets.com/auction/index/1108794,Varies,
+Chisago County,Minnesota,"56,621","$98,260",64.60%,1.08%,https://www.courthousedirect.com/DocumentImages.aspx,https://www.chisagocountymn.gov/427/Geographic-Information-Systems-GIS,https://www.chisagocountymn.gov/DocumentCenter/View/4330/Zoning-Ordinance-No-20241218-1-PDF?bidId=,https://www.ci.chisago.mn.us/utilitybills,https://www.ci.chisago.mn.us/utilitybills,https://my.xcelenergy.com/s/,https://my.xcelenergy.com/s/,No,varies,,Varies,
+Union County,North Carolina,"238,267","$98,215",64.90%,2.76%,https://clerk.ucnj.org/UCPA/DocIndex,https://www.unioncountync.gov/government/departments-f-p/gis-mapping,https://www.unioncountync.gov/government/departments-f-p/planning-development,https://unioncountyor.gov/public-works/,https://unioncountyor.gov/public-works/,https://www.duke-energy.com/,https://piedmontng.com/,No,Varies,,Varies,
+Pierce County,Washington,"921,130","$98,174",59.90%,0.24%,https://internal.co.pierce.wi.us/gcswebportal/,https://www.piercecountywa.gov/2281/GIS-Map-Applications,https://ecode360.com/9819274,https://www.mytpu.org/about-tpu/services/water/,https://www.piercecountywa.gov/1678/About-the-Sewer-Division,https://www.pse.com/en,https://www.pse.com/en,Yes,once per year (typically in November).,https://www.bid4assets.com/storefront/PierceATNov24,"Tuesday, November 4, 2025",
+Parker County,Texas,"148,222","$98,174",63.40%,4.17%,https://parkercountytx-web.tylerhost.net/web/search/DOCSEARCH303S1,https://www.parkercountytx.gov/521/Maps,https://www.parkertexas.us/DocumentCenter/View/1591/City-Code-of-Ordinance-156?bidId=,https://parkercountywater.com/,https://parkercountywater.com/,https://www.atmosenergy.com/,https://www.oncor.com/content/oncorwww/us/en/home.html,Yes,Varies,https://www.bid4assets.com/auction/index/1166648,"June 3, 2025",
+Belknap County,New Hampshire,"63,705","$97,692",60.50%,0.49%,https://ava.fidlar.com/NHBelknap/AvaWeb/#/search,https://app.regrid.com/us/nh/belknap#,https://www.belknapcounty.gov/county-administration/files/administrative-code,https://www.laconianh.gov/148/City-Services,https://www.laconianh.gov/148/City-Services,https://libertyutilities.com/,"https://www.eversource.com/content/residential
+https://nhec.com/
+https://libertyutilities.com/",No,Varies,,Varies,
+Clark County,Washington,"503,311","$97,678",62.50%,0.84%,https://www.clarkcountynv.gov/government/assessor/property_search/real_property_records.php,https://gis.clark.wa.gov/gishome/property/index.cfm?pid=search,https://www.co.clark.in.us/index.php/business/clark-county-indiana-zoning-ordinance,"https://www.lvvwd.com/
+https://www.lvvwd.com/customer-service/service-areas/big-bend/index.html
+https://www.snwa.com/",https://www.cleanwaterteam.com/,https://www.nvenergy.com/,https://www.swgas.com/,Yes,Varies,https://www.bid4assets.com/storefront/ClarkCountyNVMay21,"July 31, 2025 (in-person sale)
+September 25, 2025 (in-person sale)",
+Travis County,Texas,"1,290,188","$97,543",70.70%,0.55%,https://www.texasfile.com/search/texas/travis-county/county-clerk-records/,https://www.traviscountytx.gov/open-data-portal,https://www.traviscountytx.gov/commissioners-court/county-code,"https://wtcpua.org/
+https://www.waterdistrict10.org/",https://wtcpua.org/,https://www.atmosenergy.com/index.html,https://austinenergy.com/,Yes,First Tuesday of each month,https://www.bid4assets.com/auction/index/866487,3rd June,
+Chatham County,North Carolina,"76,285","$97,219",55.80%,2.02%,https://www.chathamncrod.org/,https://chathamncgis.maps.arcgis.com/home/index.html,https://www.chathamcountync.gov/government/departments-programs-i-z/planning/zoning-information,"https://www.chathamcountync.gov/government/departments-programs-i-z/utilities-water
+https://onswc.com/","https://www.chathamcountync.gov/government/departments-programs-i-z/utilities-water
+https://onswc.com/","https://www.duke-energy.com/
+https://www.dominionenergy.com/","https://www.duke-energy.com/
+https://www.dominionenergy.com/",Yes,First Tuesday of each month (unless postponed),https://www.bid4assets.com/auction/index/1087816,6th June,
+Deschutes County,Oregon,"198,253","$97,163",61.90%,0.96%,https://www.chathamncrod.org/search.wgx,https://www.deschutes.org/it/page/gis-data-services,https://www.deschutes.org/cd/page/planning-zoning,"https://dvwd.org/
+https://www.bendoregon.gov/water",https://www.madras.gov/,https://www.cngc.com/,https://www.pacificpower.net/,No,Yearly,,"May 20, 2016",
+Ozaukee County,Wisconsin,"91,503","$96,961",64.50%,0.47%,https://www.ascent.co.ozaukee.wi.us/LandRecords/AccessManagement/Account/Login,https://www.arcgis.com/apps/webappviewer/index.html?id=1846293f82c24db2a9d7adf5e6554b77,https://www.ozaukeecounty.gov/790/County-Zoning,"https://www.cityofmequonwi.gov/utilities
+https://www.cedarburglightandwater.org/","https://www.cityofmequonwi.gov/utilities
+https://www.cedarburglightandwater.org/",https://energyandhousing.wi.gov/Pages/AgencyResources/energy-assistance.aspx,"https://www.we-energies.com/
+https://www.cedarburglightandwater.org/",Yes,Varies,https://www.bid4assets.com/auction/index/1009038,Varies,
+Essex County,Massachusetts,"809,829","$96,874",64.50%,0.44%,https://press.essexregister.com/prodpress/index.aspx,https://essex-county-virginia-gis-portal-essex-virginia.hub.arcgis.com/,https://www.essexva.gov/planning/page/zoning-subdivision-ordinance,https://www.tappahannock-va.gov/,https://www.tappahannock-va.gov/,https://www.enbridge.com/,"https://www.dominionenergy.com/
+https://www.elkenergy.com/",Yes,Varies,https://www.forsaleatauction.biz/auctions/detail/bw98204,"November 12, 2025",
+Anoka County,Minnesota,"363,887","$96,812",68.30%,0.89%,https://prtpublicweb.co.anoka.mn.us/search/commonsearch.aspx?mode=combined,https://www.anokacountymn.gov/315/GIS,https://www.anokacountymn.gov/1363/Zoning-Planning,"https://www.anokaminnesota.com/
+https://www.coonrapidsmn.gov/","https://www.anokaminnesota.com/
+https://www.coonrapidsmn.gov/",https://www.centerpointenergy.com/en-us/pages/selfid.aspx,https://www.anokamunicipalutility.com/,Yes,Varies,"https://www.publicsurplus.com/sms/anokacore,mn/list/current?orgid=1050725","June 9, 2025 and closes on June 16, 2025",
+Columbia County,Georgia,"156,010","$96,540",57.20%,1.60%,https://columbia.floridapa.com/gis/,https://www.arcgis.com/apps/View/index.html?appid=e4c5bfda912e415e9555ddad21ea39e4,https://www.co.columbia.wi.us/ColumbiaCounty/planningzoning/ZoningCode/tabid/1643/Default.aspx,https://www.columbiacountyga.gov/455/Water-Utility-Services,https://www.columbiacountyfla.com/utilities/Faq.aspx,"https://gng.com/
+https://www.scanaenergy.com/","https://www.jec.coop/
+https://www.georgiapower.com/",No,Varies,,"June 16, 2025",
+Wilson County,Tennessee,"147,737","$96,171",65.20%,3.01%,https://search.wilsondeeds.com/,https://www.wilsoncountync.gov/departments/technology-services/gis-services,"https://www.wilsoncountync.gov/departments/planning-division#:~:text=Wilson%20County%20Zoning%20Regulations&text=A%20zoning%20permit%20must%20be,district%20of%20the%20specific%20parcel.","https://westwilsonutility.com/
+https://www.lebanontn.org/","https://westwilsonutility.com/
+https://www.lebanontn.org/",https://www.wilsonnc.org/wilson-energy/,https://www.wilsonnc.org/wilson-energy/,Yes,Varies,https://www.bid4assets.com/auction/index/1105631,Varies,
+Isle of Wight County,Virginia,"38,606","$96,118",59.40%,1.40%,https://www.co.isle-of-wight.va.us/departments/county_attorney/public_records.php,https://www.co.isle-of-wight.va.us/departments/information_technology/mapping_and_gis.php,https://www.co.isle-of-wight.va.us/departments/planning_and_zoning/index.php,https://www.co.isle-of-wight.va.us/departments/public_utilities/index.php,https://www.co.isle-of-wight.va.us/departments/public_utilities/index.php,https://www.columbiagasva.com/,https://www.dominionenergy.com/,Yes,Varies,https://www.bid4assets.com/auction/index/847747,Varies,
+Culpeper County,Virginia,"52,552","$96,098",61.80%,1.23%,https://selfservice.culpeperva.gov/css/citizens/RealEstate/Default.aspx?mode=new,https://web.culpepercounty.gov/planning/page/gis-online-and-maps,https://web.culpepercounty.gov/planning,"https://web.culpepercounty.gov/environmentalservices
+https://www.culpeperva.gov/government/finance_and_treasurer/utilities/index.php","https://web.culpepercounty.gov/environmentalservices
+https://www.culpeperva.gov/government/finance_and_treasurer/utilities/index.php",https://www.columbiagasva.com/,https://www.dominionenergy.com/,Yes,Varies,"https://www.forsaleatauction.biz/auctions/detail/bw81815
+https://www.vaauctionco.com/auctions/detail/bw108863",Varies,
+Guadalupe County,Texas,"172,706","$95,953",64.80%,2.96%,https://www.guadalupecountynm.org/copy-3-of-clerk-s-office,https://www.guadalupetx.gov/page/roads.gis,https://www.guadalupetx.gov/page/Subdivision%20Regulations,"https://www.gbra.org/
+https://springshill.org/","https://www.gbra.org/
+https://springshill.org/",https://www.centerpointenergy.com/en-us/pages/selfid.aspx,"https://www.gvec.org/
+https://www.seguintexas.gov/478/Electric",Yes,January to August 2025,https://www.bid4assets.com/auction/index/1196766,Varies,
+Jefferson County,West Virginia,"57,701","$95,523",61.00%,1.30%,https://www.jeffersoncountyclerk.org/on-line-land-records/,https://www.arcgis.com/apps/View/index.html?appid=b5118cb926c64ebeac59c8d0b01f6e45,https://www.jeffco.net/cd/page/jefferson-county-zoning-ordinance,"https://www.jcwatersewer.com/
+https://pwsd1jeffco.com/","https://www.jcwatersewer.com/
+https://pwsd1jeffco.com/",http://www.we-energies.com/,http://www.jeffersonutilities.com/,Yes,Varies,https://jeffcotax.com/property-tax/delinquent-tax-sale/,"August 5, 2025",
+Fulton County,Georgia,"1,066,710","$95,371",67.30%,0.50%,https://www.fultoncountyoh.com/278/Fulton-County-Land-Records-Search,https://gisdata.fultoncountyga.gov/,https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/public-works/planning-zoning-and-permitting/permits-and-plan-review/ordinances-and-regulations,https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/public-works,https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/public-works,https://www.ameren.com/,"https://www.ameren.com/
+http://srecoop.org/",No,First Tuesday of each month,,June 3rd 2025,
+Hawai?i County,Hawaii,"1,455,271","$95,322",57.00%,0.61%,https://qpublic.schneidercorp.com/Application.aspx?AppID=1048&LayerID=23618&PageTypeID=2&PageID=9876,,https://www.planning.hawaiicounty.gov/resources/resources-references/zoning-land-use,https://www.hawaiidws.org/,https://www.hawaiidws.org/,https://www.hawaiigas.com/,https://www.hawaiianelectric.com/,No,Varies,,05/08/2024,
+Orange County,New York,"401,310","$94,364",60.60%,0.52%,https://searchiqs.com/nyora/,https://gis.hawaiicounty.gov/arcgisportal/apps/webappviewer/index.html?id=6d4a0ca08b9744c9a34e0a6ff65b882e,https://www.orangecountyfl.net/PermitsLicenses/ZoningDivision.aspx,https://orangecountyflutilities.selectpaytoday.com/,https://orangecountyflutilities.selectpaytoday.com/,"https://www.ouc.com/
+https://www.duke-energy.com/","https://www.ouc.com/
+https://www.duke-energy.com/",No,Varies,,"June 25, 2025",
+Saratoga County,New York,"235,509","$94,330",62.50%,0.10%,https://www.searchiqs.com/NYSAR/Login.aspx,https://www.saratogacountyny.gov/departments/planning-and-economic-development-beta/geographic-information-system/,https://www.saratogacountyny.gov/departments/planning-and-economic-development-beta/planning-zoning-and-municipal-resources/,https://www.saratogacountyny.gov/commissions-and-authorities/saratoga-county-water-authority/,https://www.saratogacountyny.gov/departments/sewer-district-1/,"https://www.nationalgridus.com/
+https://www.nyseg.com/","https://www.nationalgridus.com/
+https://www.nyseg.com/",Yes,"Monday through Friday, excluding holidays",https://sarasota.realtaxdeed.com/index.cfm?zaction=REGISTER&zmethod=START,Varies,
+Bryan County,Georgia,"44,738","$94,234",60.50%,2.97%,https://qpublic.schneidercorp.com/Application.aspx?AppID=639&LayerID=11303&PageTypeID=2&PageID=4634,https://www.bryancountyga.gov/government/departments-a-g/gis-mapping,https://www.bryancountyga.gov/government/departments-h-z/planning-zoning/planning-zoning-commission,https://ruralwater2.com/,https://www.bryancountyga.gov/residents/water-and-sewer-services,https://www.atmosenergy.com/,https://btutilities.com/,Yes,Varies,https://www.bid4assets.com/auction/index/1100088,Varies,
+Tooele County,Utah,"72,698","$94,201",70.80%,2.49%,https://geodata.tooelecountyonline.org/,https://tooeleco.gov/departments/departments/gis_.php,https://tooeleco.gov/departments/development/land_use_ordinance.php,https://www.grantsvilleut.gov/departments/utilities/index.php,https://www.tooelecity.gov/services/finance/utilities/index.php,https://www.enbridgegas.com/utwyid,https://www.tooelecity.gov/services/finance/utilities/index.php,Yes,Varies,https://www.bid4assets.com/storefront/TooeleMay21,Varies,
+Orange County,Virginia,"36,254","$94,175",58.50%,1.33%,https://searchiqs.com/nyora/,https://gis.orangecountygov.com/orange/,https://www.orangecountyfl.net/PermitsLicenses/ZoningDivision.aspx,https://orangecountyflutilities.selectpaytoday.com/,https://orangecountyflutilities.selectpaytoday.com/,"https://www.duke-energy.com/
+https://www.duke-energy.com/","https://www.ouc.com/
+https://www.duke-energy.com/",No,Varies,,6/25/2025,
+Paulding County,Georgia,"168,661","$94,126",65.50%,2.35%,https://www.paulding.gov/1455/Property-Records-Taxes,https://www.paulding.gov/156/Geographic-Information-Systems-GIS-Divis,https://paulding.gov/107/Planning-Zoning-Division,https://www.paulding.gov/225/Water-System,https://www.paulding.gov/225/Water-System,https://gng.com/,"https://www.cobbemc.com/
+https://www.ppec.coop/",Yes,Varies,https://www.taxsaleresources.com/counties/paulding-county-georgia,Varies,
+Worcester County,Massachusetts,"862,111","$94,099",63.50%,0.46%,https://www.worcesterma.gov/finance/taxes-assessments/property-records,https://www.co.worcester.md.us/departments/drp/gis,https://www.co.worcester.md.us/departments/drp/zoning,https://www.co.worcester.md.us/departments/public-works,https://www.co.worcester.md.us/departments/public-works,https://www.sandpiper-energy.com/,"https://choptankelectric.coop/
+https://www.delmarva.com/",Yes,"Annually, typically in May",https://worcester.marylandtaxsale.com/,"Wednesday, May 14, 2025",
+Hancock County,Indiana,"79,840","$93,906",65.10%,3.70%,https://hancock.countyclerk.us/online-land-records/,https://hancockin.gov/308/GIS,https://www.hancockcountyia.org/wp-content/uploads/2020/09/HancockCountyZoningOrdinance.pdf,https://www.hancockcountywatersewer.com/,https://www.hancockcountywatersewer.com/,https://www.ninestarconnect.com/,https://www.ninestarconnect.com/,Yes,Varies,https://app.pvone.io/auction_info/Hancock-MS,"3rd Monday of June (June 16, 2025)","{'County': 'Hancock County', 'State': 'Indiana', 'Auction Link(s)': 'https://app.pvone.io/auction_info/Hancock-MS', 'Next Auction': '29-11-11'}"
+Brazoria County,Texas,"372,031","$93,680",61.30%,2.61%,https://brazoriacountytx-web.tylerhost.net/web/,https://arcgis-web.brazoriacountytx.gov/portal/apps/webappviewer/index.html?id=de1e15797dac42e5941f888ea9198cc5,https://www.brazoriacountytx.gov/departments/engineering/development,https://www.bcmud21.com/,https://www.bcmud21.com/,https://cityofbrazoria.org/175/Natural-Gas-Department,https://www.tnmp.com/,Yes,Varies,https://www.bid4assets.com/auction/index/866360,"May 27, 2025",
+Matanuska-Susitna Borough,Alaska,"107,081","$93,673",58.10%,1.51%,https://alaska.publicoffices.org/matanuska-susitna-borough-county-land-records,https://matsugov.us/articles/gis-shapefiles,https://matsugov.us/zoning,https://matsugov.us/tsw,https://matsugov.us/tsw,https://www.enstarnaturalgas.com/,https://www.mea.coop/,Yes,Varies,https://m.publicsurplus.com/sms/auction/view?auc=3759429,"May 19, 2025","{'County': 'Matanuska-Susitna Borough', 'State': 'Alaska', 'Auction Link(s)': 'https://m.publicsurplus.com/sms/auction/view?auc=3759429', 'Next Auction': 'Jun 4, 2025'}
+{'County': 'Matanuska-Susitna Borough', 'State': 'Alaska', 'Auction Link(s)': 'https://m.publicsurplus.com/sms/auction/view?auc=3759429', 'Next Auction': 'August 15, 2025'}"
+Polk County,Georgia,"42,853","$55,308",53.30%,1.25%,,,,,,,,,,,,
+Brown County,Texas,"38,095","$55,305",53.90%,0.68%,,,,,,,,,,,,
+Hawkins County,Tennessee,"56,721","$55,278",46.10%,1.18%,,,,,,,,,,,,
+Delaware County,Indiana,"111,903","$55,206",59.00%,0.14%,,,,,,,,,,,,
+Carroll County,Arkansas,"28,260","$55,187",50.50%,0.34%,,,,,,,,,,,,
+Matagorda County,Texas,"36,255","$55,174",54.10%,0.65%,,,,,,,,,,,,
+Walker County,Texas,"76,400","$55,134",43.90%,1.92%,,,,,,,,,,,,
+Delaware County,Oklahoma,"40,397","$55,114",48.70%,0.53%,,,,,,,,,,,,
+Prince Edward County,Virginia,"21,849","$55,082",44.00%,0.68%,,,,,,,,,,,,
+Sullivan County,Indiana,"20,817","$54,985",51.30%,0.41%,,,,,,,,,,,,
+Dyer County,Tennessee,"36,801","$54,973",55.10%,0.16%,,,,,,,,,,,,
+Delta County,Michigan,"36,903","$54,829",48.60%,0.02%,,,,,,,,,,,,
+Hockley County,Texas,"21,537","$54,810",58.30%,0.85%,,,,,,,,,,,,
+Coshocton County,Ohio,"36,612","$54,687",53.70%,0.68%,,,,,,,,,,,,
+Valencia County,New Mexico,"76,205","$54,665",52.10%,1.17%,,,,,,,,,,,,
+Pope County,Arkansas,"63,381","$54,606",54.30%,0.83%,,,,,,,,,,,,
+Scott County,Indiana,"24,384","$54,583",57.00%,0.63%,,,,,,,,,,,,
+Houston County,Texas,"22,066","$54,563",42.70%,0.55%,,,,,,,,,,,,
+Lowndes County,Georgia,"118,251","$54,509",54.50%,0.99%,,,,,,,,,,,,
+Ohio County,Kentucky,"23,772","$54,369",51.40%,0.55%,,,,,,,,,,,,
+Clarke County,Georgia,"128,671","$54,352",61.20%,0.16%,,,,,,,,,,,,
+Cass County,Texas,"28,454","$54,328",47.80%,0.42%,,,,,,,,,,,,
+Grady County,Georgia,"26,236","$54,312",57.20%,0.28%,,,,,,,,,,,,
+Crittenden County,Arkansas,"48,163","$54,271",55.90%,0.19%,,,,,,,,,,,,
+Greene County,Tennessee,"70,152","$54,261",51.00%,1.74%,,,,,,,,,,,,
+Logan County,Arkansas,"21,131","$54,237",52.60%,0.66%,,,,,,,,,,,,
+Boone County,Arkansas,"37,373","$54,195",54.50%,0.65%,,,,,,,,,,,,
+Toombs County,Georgia,"27,030","$54,130",54.50%,0.84%,,,,,,,,,,,,
+Roscommon County,Michigan,"23,459","$54,106",40.80%,0.76%,,,,,,,,,,,,
+Warren County,Tennessee,"40,953","$54,088",54.90%,1.47%,,,,,,,,,,,,
+McDuffie County,Georgia,"21,632","$54,058",55.10%,0.50%,,,,,,,,,,,,
+Bulloch County,Georgia,"81,099","$54,007",52.00%,0.76%,,,,,,,,,,,,
+Marion County,Ohio,"65,359","$53,995",51.60%,0.37%,,,,,,,,,,,,
+Athens County,Ohio,"62,431","$53,837",53.60%,2.83%,,,,,,,,,,,,
+Burke County,North Carolina,"87,570","$53,739",55.00%,0.41%,,,,,,,,,,,,
+White County,Arkansas,"76,822","$53,688",53.80%,1.05%,,,,,,,,,,,,
+Carbon County,Utah,"20,412","$53,673",53.30%,0.33%,,,,,,,,,,,,
+Hidalgo County,Texas,"870,781","$53,661",56.50%,1.12%,,,,,,,,,,,,
+Jackson County,North Carolina,"43,109","$53,479",52.90%,1.44%,,,,,,,,,,,,
+Henderson County,Tennessee,"27,842","$53,471",50.00%,0.58%,,,,,,,,,,,,
+Macon County,North Carolina,"37,014","$53,298",51.60%,1.14%,,,,,,,,,,,,
+Lawrence County,Tennessee,"44,159","$53,233",55.00%,1.31%,,,,,,,,,,,,
+Hamblen County,Tennessee,"64,499","$53,210",57.60%,1.58%,,,,,,,,,,,,
+Tift County,Georgia,"41,344","$53,165",53.80%,0.52%,,,,,,,,,,,,
+Sampson County,North Carolina,"59,036","$53,159",53.30%,0.95%,,,,,,,,,,,,
+Brazos County,Texas,"233,849","$53,123",59.70%,1.46%,,,,,,,,,,,,
+Obion County,Tennessee,"30,787","$53,102",52.70%,0.12%,,,,,,,,,,,,
+Whitman County,Washington,"47,973","$52,893",58.10%,0.89%,,,,,,,,,,,,
+Washington County,Florida,"25,318","$52,723",43.80%,0.77%,,,,,,,,,,,,
+Hot Spring County,Arkansas,"33,040","$52,644",47.80%,0.33%,,,,,,,,,,,,
+Carroll County,Virginia,"29,155","$52,575",50.40%,0.41%,,,,,,,,,,,,
+Tattnall County,Georgia,"22,842","$52,351",43.10%,1.25%,,,,,,,,,,,,
+Franklin County,Georgia,"23,424","$52,264",50.80%,2.50%,,,,,,,,,,,,
+Stephens County,Georgia,"26,784","$52,264",52.40%,1.74%,,,,,,,,,,,,
+Washington County,Maine,"31,095","$52,237",48.90%,0.09%,,,,,,,,,,,,
+Grant County,Indiana,"66,674","$52,214",52.60%,0.31%,,,,,,,,,,,,
+Cameron County,Texas,"421,017","$52,210",56.40%,0.42%,,,,,,,,,,,,
+White County,Tennessee,"27,351","$52,206",51.80%,2.36%,,,,,,,,,,,,
+Ogemaw County,Michigan,"20,770","$51,983",44.10%,0.34%,,,,,,,,,,,,
+Alpena County,Michigan,"28,907","$51,909",49.60%,0.25%,,,,,,,,,,,,
+Washington County,Missouri,"23,514","$51,886",48.60%,0.60%,,,,,,,,,,,,
+Duplin County,North Carolina,"48,715","$51,880",56.70%,1.17%,,,,,,,,,,,,
+Nacogdoches County,Texas,"64,653","$51,718",57.20%,0.58%,,,,,,,,,,,,
+Mecklenburg County,Virginia,"30,319","$51,691",48.90%,0.39%,,,,,,,,,,,,
+Cherokee County,North Carolina,"28,774","$51,496",47.10%,1.64%,,,,,,,,,,,,
+Grainger County,Tennessee,"23,527","$51,351",50.00%,1.97%,,,,,,,,,,,,
+Maverick County,Texas,"57,887","$51,270",53.90%,0.23%,,,,,,,,,,,,
+Bibb County,Georgia,"157,346","$51,254",53.40%,0.25%,,,,,,,,,,,,
+Wilson County,North Carolina,"78,784","$51,247",52.90%,0.83%,,,,,,,,,,,,
+Conway County,Arkansas,"20,715","$51,212",51.60%,0.26%,,,,,,,,,,,,
+Greene County,North Carolina,"20,451","$50,904",47.40%,0.79%,,,,,,,,,,,,
+Upson County,Georgia,"27,700","$50,904",51.70%,0.60%,,,,,,,,,,,,
+Ashe County,North Carolina,"26,577","$50,827",48.70%,0%,,,,,,,,,,,,
+Otero County,New Mexico,"67,839","$50,762",51.40%,0.46%,,,,,,,,,,,,
+Burke County,Georgia,"24,596","$50,739",53.80%,0.02%,,,,,,,,,,,,
+McNairy County,Tennessee,"25,866","$50,714",48.50%,0.65%,,,,,,,,,,,,
+Decatur County,Georgia,"29,367","$50,485",48.60%,0.23%,,,,,,,,,,,,
+Shelby County,Texas,"24,022","$50,436",54.90%,0.49%,,,,,,,,,,,,
+Carroll County,Tennessee,"28,440","$50,391",52.40%,1.51%,,,,,,,,,,,,
+Campbell County,Tennessee,"39,272","$50,260",49.00%,1.61%,,,,,,,,,,,,
+Coffee County,Georgia,"43,092","$50,175",50.40%,0.16%,,,,,,,,,,,,
+Emanuel County,Georgia,"22,768","$50,053",51.40%,0.74%,,,,,,,,,,,,
+Jasper County,Texas,"32,980","$49,919",47.80%,0.60%,,,,,,,,,,,,
+Malheur County,Oregon,"31,571","$49,902",48.10%,0.58%,,,,,,,,,,,,
+Clare County,Michigan,"30,856","$49,805",42.60%,0.03%,,,,,,,,,,,,
+Laurens County,Georgia,"49,570","$49,705",52.60%,0.46%,,,,,,,,,,,,
+Colquitt County,Georgia,"45,898","$49,691",56.80%,0.72%,,,,,,,,,,,,
+Wayne County,Georgia,"30,144","$49,562",48.10%,1.99%,,,,,,,,,,,,
+Adams County,Ohio,"27,477","$49,521",47.70%,0.22%,,,,,,,,,,,,
+Weakley County,Tennessee,"32,902","$49,502",52.10%,0.12%,,,,,,,,,,,,
+Hardin County,Tennessee,"26,831","$49,149",47.70%,0.60%,,,,,,,,,,,,
+Russell County,Virginia,"25,781","$49,020",42.40%,0.16%,,,,,,,,,,,,
+Henry County,Tennessee,"32,199","$48,540",49.00%,0.53%,,,,,,,,,,,,
+DeKalb County,Tennessee,"20,080","$48,484",51.10%,1.04%,,,,,,,,,,,,
+Edgecombe County,North Carolina,"48,900","$48,480",52.90%,0.91%,,,,,,,,,,,,
+Carter County,Tennessee,"56,356","$48,435",48.50%,0.93%,,,,,,,,,,,,
+Baxter County,Arkansas,"41,627","$48,427",41.70%,0.90%,,,,,,,,,,,,
+Cocke County,Tennessee,"35,999","$48,416",50.50%,1.46%,,,,,,,,,,,,
+Columbus County,North Carolina,"50,623","$48,184",47.40%,0.09%,,,,,,,,,,,,
